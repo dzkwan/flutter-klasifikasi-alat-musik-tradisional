@@ -19,7 +19,11 @@ class _WebviewScreenState extends State<WebviewScreen> {
     super.initState();
     var judul = widget.title.trim();
     if (judul == "Kecapi") {
-      judul = "Kacapi";
+      judul = "kacapi";
+    } else if (judul == "Gender") {
+      judul = "gender_(musik)";
+    } else if (judul == "Serunai") {
+      judul = "serunai_(alat_musik)";
     }
     controller = WebViewController()
       ..setNavigationDelegate(NavigationDelegate(

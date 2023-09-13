@@ -28,10 +28,25 @@ class AboutScreen extends StatelessWidget {
                 """ Aplikasi ini dibuat sebagai demo aplikasi klasifikasi alat musik tradisional yang dapat digunakan untuk mendeteksi alat musik tradisional\n
   Untuk saat ini, aplikasi hanya dapat mendeteksi alat musik tradisional yang terdiri dari:
 1. Angklung
-2. Kecapi
-3. Kolintang
-4. Saluang
-5. Sasando""",
+2. Bundengan
+3. Gambus
+4. Gender
+5. Hasapi
+6. Karinding
+7. Kecapi
+8. Kendang
+9. Kolintang
+10. Ogung
+11. Rebab
+12. Rebana
+13. Saluang
+14. Sampe
+15. Sasando
+16. Serunai
+17. Taganing
+18. Tahuri
+19. Tamborin
+20. Tifa""",
                 textAlign: TextAlign.justify,
               ),
             ),
