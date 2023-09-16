@@ -1,16 +1,14 @@
-# skripsi
+# Projek flutter klasifikasi alat musik tradisional.
 
-A new Flutter project.
+#### projek ini menggunakan model AI yang sudah diconvert menjadi Tflite
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+package yang digunakan:
+```dart
+flutter_speed_dial: ^7.0.0
+tflite_flutter: ^0.10.1
+webview_flutter: ^4.2.3
+path_provider: ^2.1.0
+image_picker: ^1.0.1
+provider: ^6.0.5
+image: ^4.0.17
+```
