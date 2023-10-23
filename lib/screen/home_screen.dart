@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_speed_dial/flutter_speed_dial.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:provider/provider.dart';
-import 'package:skripsi/about_screen.dart';
+import 'package:skripsi/screen/about_screen.dart';
 import 'package:skripsi/provider/tflite.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:skripsi/webview_screen.dart';
+import 'package:skripsi/screen/webview_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:skripsi/provider/tflite.dart';
-import 'package:skripsi/splash_screen.dart';
+import 'package:skripsi/screen/splash_screen.dart';
 
 void main() {
   runApp(const MyApp());
